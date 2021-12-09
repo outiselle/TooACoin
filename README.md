@@ -1,2 +1,1 @@
-# TooACoin
- Cli toss a coin with percentage modificator
+Toss a Coin and choose a percentage modificator
